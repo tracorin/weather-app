@@ -1,0 +1,28 @@
+.weather-card {
+  padding-left: 10px;
+  background-color: rgba(134, 134, 134, 0.3);
+  height: 120px;
+  display: flex;
+  align-items: center;
+}
+
+.weather-card-main {
+  display: flex;
+  align-items: center;
+}
+
+.weather-information {
+}
+
+.weather-temperature {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+
+.weather-description {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  text-transform: uppercase;
+}
